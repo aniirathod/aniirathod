@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me  
 I’m a **Frontend Developer** passionate about creating engaging and performant user experiences using modern web technologies.  
-With a background in **Electronics & Telecommunication Engineering (BE)** from **Sinhgad Institute of Technology**, I combine analytical problem-solving with creative design to bring ideas to life.
+With a background in **Electronics & Telecommunication Engineering (BE)**, I combine analytical problem-solving with creative design to bring ideas to life.
 
 - 💼 Currently working on **React.js**, **Tailwind CSS**, and **Web Animations**
 - 🌱 Learning **Spring Boot**, **3D web experiences**, and **advanced UI/UX**
