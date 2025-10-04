@@ -4,6 +4,9 @@
 <p align="center">
   <a href="mailto:aniketnr5023@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aniket-rathod0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://aniket-rathod.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=react&logoColor=white" />
+  </a>
   <a href="https://github.com/aniirathod"><img src="https://img.shields.io/github/followers/aniirathod?label=Follow&style=social" /></a>
 </p>
 
@@ -14,16 +17,31 @@ I’m a **Frontend Developer** passionate about creating engaging and performant
 With a background in **Electronics & Telecommunication Engineering (BE)**, I combine analytical problem-solving with creative design to bring ideas to life.
 
 - 💼 Currently working on **React.js**, **Tailwind CSS**, and **Web Animations**
-- 🌱 Learning **Spring Boot**, **3D web experiences**, and **advanced UI/UX**
+- 🌱 Learning  **3D web experiences**, and **advanced UI/UX**
 - 🤝 Open to collaborating on **frontend projects**, **open source**, and **hackathons**
 - ⚡ Fun fact: I love making things that *look great and work even better!*
 
 ---
 
 ### 🧩 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,java,mongodb,git,github,postman,figma,threejs" />
-</p>
+<div style="width: 900px; margin: 0 auto;"> 
+  <table width="100%">
+    <tr>
+      <td width="28%" align="center" valign="middle">
+       <img src="https://cms.mistral.ai/assets/920e56ee-25c5-439d-bd31-fbdf5c92c87f" alt="Mistral GIF" height="250" />
+      </td>
+      <td width="72%" style="text-align: right; font-family: monospace; font-size: 1.4rem; line-height: 1.6; vertical-align: middle;">
+        <strong>💼 Tech Stack</strong><br /><br />
+        ➤ <strong>Languages:</strong> HTML, CSS, JavaScript, Java<br />
+        ➤ <strong>Frameworks:</strong> React.js, Redux, Tailwind CSS, Bootstrap, Spring Boot, Locomotive.js, GSAP, Framer Motion<br />
+        ➤ <strong>Database:</strong>SQL, MongoDB<br />
+        ➤ <strong>Dev Tools:</strong> Git, GitHub, Postman, Canva, VS Code<br />
+        ➤ <strong>Others:</strong> API Integration, Responsive Design, 3D Web (React Three Fiber)
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
@@ -68,18 +86,6 @@ Built using **React**, **Node.js**, and **WebSocket** — enabling real-time dat
 - **TNS India Foundation Skills Program (2024)**  
 - **Microsoft Azure Cloud Workshop (2024)**  
 - **Rubicon Employability & Life Skills (2023)**  
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aniirathod&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aniirathod&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniirathod&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
